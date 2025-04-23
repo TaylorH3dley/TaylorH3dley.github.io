@@ -83,20 +83,9 @@ const CONFIG = {
       'https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/new.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
-    'PHP',
-    'Laravel',
-    'JavaScript',
-    'React.js',
-    'Node.js',
-    'Nest.js',
-    'MySQL',
-    'PostgreSQL',
-    'Git',
-    'Docker',
-    'PHPUnit',
-    'CSS',
-    'Antd',
-    'Tailwind',
+    'PCR',
+    'Bioinformatics',
+    'Microbiology',
   ],
   experiences: [
     {
@@ -124,16 +113,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Merced College',
+      degree: 'A.S Health sciences',
+      from: '2019',
+      to: '2021',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'CSU Stanislaus',
+      degree: 'B.S in Biological sciences',
+      from: '2023',
+      to: '2025',
     },
   ],
   publications: [
