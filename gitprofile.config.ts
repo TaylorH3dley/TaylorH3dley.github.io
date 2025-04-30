@@ -37,16 +37,16 @@ const CONFIG = {
           description:
             'An insight into how fungal bioremediation can be used to save our planet.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/biotech.png',
+          link: 'https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/biotech presentation.pptx',
         },
         {
-          title: 'Project Name',
+          title: 'Microbiology paper about Toxoplasma Gondii',
           description:
-            'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc ut.',
+            'A research paper about the microbe Toxoplasma Gondii.',
           imageUrl:
-            'https://img.freepik.com/free-vector/illustration-gallery-icon_53876-27002.jpg',
-          link: 'https://example.com',
+            'https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/toxo.png',
+          link: 'https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/disease paper (1).pdf',
         },
       ],
     },
