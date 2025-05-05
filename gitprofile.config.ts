@@ -127,7 +127,6 @@ const CONFIG = {
       link: 'https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/MRA_template_prokaryotic-eukaryotic_genome.pdf',
       description:
         'This is a manuscript in submission. Elizabethkingia miricola DSM 14571 was isolated from condensation water aboard a Russian space station and cultured on cysteine-lactose-electrolyte-deficient medium agar before genome sequencing, which revealed 4,064 predicted genes including virulence and resistance-associated elements.',
-    
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
