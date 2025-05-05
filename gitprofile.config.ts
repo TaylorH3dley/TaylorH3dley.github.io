@@ -124,19 +124,10 @@ const CONFIG = {
       conferenceName: '',
       journalName: 'Microbiology Resource Announcements',
       authors: 'Lillyanna Azevedo, Julian Garcia, Priscilla Garcia, Taylor Hedley, Tricia Van Laar',
-      link: 'https://example.com',
+      link: 'https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/MRA_template_prokaryotic-eukaryotic_genome.pdf',
       description:
         'This is a manuscript in submission. Elizabethkingia miricola DSM 14571 was isolated from condensation water aboard a Russian space station and cultured on cysteine-lactose-electrolyte-deficient medium agar before genome sequencing, which revealed 4,064 predicted genes including virulence and resistance-associated elements.',
-    },
-    {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
-      description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
-    },
+    
   ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
