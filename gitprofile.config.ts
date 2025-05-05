@@ -123,7 +123,7 @@ const CONFIG = {
       title: 'Genome Sequence of the Antibiotic-Resistant Pathogen Elizabethkingia miricola DSM 14571 Isolated from a Russian Space Station',
       conferenceName: '',
       journalName: 'Microbiology Resource Announcements',
-      authors: 'Lillyanna Azevedo, Julian Garcia, Priscilla Garcia, Taylor Hedley, Tricia Van Laar'
+      authors: 'Lillyanna Azevedo, Julian Garcia, Priscilla Garcia, Taylor Hedley, Tricia Van Laar',
       link: 'https://example.com',
       description:
         'This is a manuscript in submission. Elizabethkingia miricola DSM 14571 was isolated from condensation water aboard a Russian space station and cultured on cysteine-lactose-electrolyte-deficient medium agar before genome sequencing, which revealed 4,064 predicted genes including virulence and resistance-associated elements.',
