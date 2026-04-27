@@ -757,3 +757,4 @@ To contribute, see the [Contributing guide](https://github.com/arifszn/gitprofil
 ## 📄 License
 
 [MIT](https://github.com/arifszn/gitprofile/blob/main/LICENSE)
+[Download My Resume](./resumecurrent.pdf)
