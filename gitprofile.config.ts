@@ -138,7 +138,7 @@ const CONFIG = {
     description: "This is a manuscript in submission. We isolated three organisms from pond sediment with activity against Bacillus subtilis and/or Staphylococcus aureus.",
   },
 ],
-      ],
+      
   // Display articles from your medium or dev account. (Optional)
   blog: {
     source: '', // medium | dev
