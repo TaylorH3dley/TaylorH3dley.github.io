@@ -80,7 +80,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/new.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/resumecurrent.pdf', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'PCR',
