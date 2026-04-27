@@ -129,6 +129,15 @@ const CONFIG = {
       description:
         'This is a manuscript in submission. Elizabethkingia miricola DSM 14571 was isolated from condensation water aboard a Russian space station and cultured on cysteine-lactose-electrolyte-deficient medium agar before genome sequencing, which revealed 4,064 predicted genes including virulence and resistance-associated elements.',
     },
+    {
+    title: "Draft Genome Sequences of Three Bacteria with Antimicrobial Activity Isolated From Pond Sediment on a University Campus",
+    conferenceName: '',
+    journalName: "Microbiology Resource Announcements",
+    authors: "Holly Moffet, Naomi Inthirath, Jessica Mojica, Delia Moreno, Marcos Martinez, Taylor Hedley, Arielle Names, Cassandra M. Haakama, Priscilla J. Garcia, Ally Watkins, and Tricia Van Laar",
+    link: "https://github.com/TaylorH3dley/TaylorH3dley.github.io/raw/main/MRA00053-26R1-Manuscript_Text_File.pdf",
+    description: "This is a manuscript in submission. We isolated three organisms from pond sediment with activity against Bacillus subtilis and/or Staphylococcus aureus.",
+  },
+],
       ],
   // Display articles from your medium or dev account. (Optional)
   blog: {
